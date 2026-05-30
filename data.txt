@@ -1,0 +1,70 @@
+CULORI:
+
+FFAD12AE
+FF7B147D
+
+
+FF47C1DC
+FF2293AC
+
+
+FF785C05
+FF9D7902
+
+
+FF85DF8E
+FF48C74C
+
+
+FFD9DD23
+FFB5B81D
+
+
+FFEA4224
+FF9C240F
+
+
+centre:
+
+Uid=227,200 - alaska
+Uid=292,199 - northwest_territory
+Uid=287,240 - vancouver
+Uid=335,248 - winnipeg
+Uid=380,254 - quebec
+Uid=429,174 - groenlanda
+Uid=341,307 - eastern_united_states
+Uid=287,296 - western_united_states
+Uid=295,359 - central_america
+Uid=345,399 - columbia
+Uid=402,446 - brazil
+Uid=345,460 - peru
+Uid=357,532 - argentina
+Uid=577,550 - south_africa
+Uid=642,559 - madagascar
+Uid=573,490 - congo
+Uid=616,466 - east_africa
+Uid=572,406 - egypt
+Uid=518,428 - north_africa
+Uid=494,342 - western_europe
+Uid=541,290 - northern_europe
+Uid=555,333 - southern_europe
+Uid=545,219 - scandinavia
+Uid=490,222 - Iceland
+Uid=481,281 - Great_Brithan
+Uid=605,253 - ukraine
+Uid=629,388 - middle_east
+Uid=671,303 - afghanistan
+Uid=710,379 - india
+Uid=752,343 - china
+Uid=771,402 - indochina
+Uid=778,293 - mongolia
+Uid=766,248 - irkutsk
+Uid=833,193 - kamchatka
+Uid=852,303 - japan
+Uid=775,188 - yakursk
+Uid=721,210 - siberia
+Uid=682,244 - ural
+Uid=784,490 - indonezia
+Uid=850,467 - papua
+Uid=875,545 - eastern_australia
+Uid=814,552 - western_australia
